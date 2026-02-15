@@ -1,5 +1,3 @@
-[![CI](https://github.com/<OWNER>/<REPO>/actions/workflows/ci.yml/badge.svg)](https://github.com/<OWNER>/<REPO>/actions)]
-
 # Projet 19 (C) — Détection DDoS (SYN flood) via IA légère 
 
 **Résumé**
