@@ -2,7 +2,7 @@
 
 # Projet 19 (C) — Détection DDoS (SYN flood) via IA légère 
 
-**Résumé (français)**
+**Résumé**
 
 Ce dépôt contient une démonstration complète d'un pipeline léger de détection de SYN flood (attaque DDoS) basé sur un modèle IsolationForest. Le projet fournit des outils pour générer du trafic synthétique, extraire des features, entraîner un modèle, exécuter la détection et visualiser les alertes via une interface web minimaliste (Streamlit).
 
